@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 5th, 2018
 
 ### Student Name:  
-(First and Last Name)
+Nickson Jean Baptiste
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Learning to utilize the Jquery library.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://nj13b.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned how Jquery works
+2. Basic DOM manipulation
+3. Extra Resources
 
